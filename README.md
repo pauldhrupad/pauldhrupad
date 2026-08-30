@@ -1,180 +1,120 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:339933&height=220&section=header&text=Dhrupad%20Paul&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20%7C%20MERN%20Stack&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22C55E&height=230&section=header&text=Dhrupad%20Paul&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Builder&descAlignY=58&descSize=18" width="100%" alt="Dhrupad Paul — Full-Stack Developer" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Turning+Ideas+Into+Web+Apps;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Building+useful+web+experiences;Learning%2C+shipping%2C+and+improving;Open+to+collaboration+and+new+ideas" alt="Building useful web experiences" />
 
-<br/>
+<br />
 
-<a href="mailto:dhrupadpaul04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-dhrupadpaul04%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/dhrupad-paul-668b482a9" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Dhrupad%20Paul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/pauldhrupad" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-pauldhrupad-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="mailto:dhrupadpaul04@gmail.com"><img src="https://img.shields.io/badge/Email-Dhrupad%20Paul-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Dhrupad Paul" /></a>
+<a href="https://www.linkedin.com/in/dhrupad-paul-668b482a9"><img src="https://img.shields.io/badge/LinkedIn-Dhrupad%20Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dhrupad Paul on LinkedIn" /></a>
+<a href="https://github.com/pauldhrupad"><img src="https://img.shields.io/badge/GitHub-pauldhrupad-181717?style=for-the-badge&logo=github&logoColor=white" alt="pauldhrupad on GitHub" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=pauldhrupad&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS" alt="Profile views" />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=pauldhrupad&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpauldhrupad&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=0EA5E9&labelColor=0F172A" alt="Public repositories" />
+<img src="https://img.shields.io/github/stars/pauldhrupad?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars%20Earned&color=22C55E&labelColor=0F172A" alt="Stars earned" />
 
 </div>
 
-<br/>
+## About Me
 
-## 🚀 About Me
+I'm a Computer Science and Engineering graduate from Kolkata, India, focused on building practical full-stack web applications. I enjoy taking an idea from a rough concept to a working product with a clean interface, a reliable API, and thoughtful user experience.
 
-I'm a Computer Science and Engineering graduate with a focus on full-stack web development. I enjoy building practical, scalable web applications and turning ideas into functional digital products.
+- Building with **React, Node.js, Express, and MongoDB**
+- Strengthening my skills in **authentication, REST APIs, and scalable application design**
+- Exploring ways to solve real-world problems through technology
+- Participated in **Smart India Hackathon 2024**
+- Comfortable collaborating in teams and taking ownership of delivery
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Interested in Full-Stack Web Development
-- 🌐 Building applications with the MERN stack
-- 🧩 Interested in solving real-world problems through technology
-- 🏆 Participated in Smart India Hackathon 2024
-- 🤝 Experienced in team collaboration and project development
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,js" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nodejs,express,mongodb,git,github,figma,ps&perline=7" alt="Java, Python, JavaScript, TypeScript, HTML, CSS, React, Node.js, Express, MongoDB, Git, GitHub, Figma, and Photoshop" />
 
-<br/><br/>
+<br /><br />
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br/><br/>
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-<br/><br/>
-
-**Tools & Technologies**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,figma,ps" />
-<img src="https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="48"/>
+`Frontend` React • JavaScript • TypeScript • HTML • CSS  
+`Backend` Node.js • Express.js • REST APIs • Socket.IO  
+`Database` MongoDB  
+`Tools` Git • GitHub • Figma • Photoshop
 
 </div>
 
-<br/>
+## GitHub Analytics
 
-## 📌 Featured Projects
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pauldhrupad&theme=github_dark" alt="Dhrupad's GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pauldhrupad&theme=github_dark" alt="Repositories by language" />
+
+</div>
+
+### Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pauldhrupad&hide_border=true&background=00000000&ring=0EA5E9&fire=22C55E&currStreakLabel=22C55E&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Dhrupad's GitHub contribution streak" />
+
+</div>
+
+### Contribution Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/22C55E/pauldhrupad" alt="Dhrupad's GitHub contribution activity graph" />
+
+</div>
+
+### Commit Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pauldhrupad&theme=github_dark" alt="Dhrupad's GitHub commit graph" />
+
+</div>
+
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🌾 Farm-Market
-A scalable web-based solution developed during Smart India Hackathon, where I collaborated with a team to build a working prototype.
-
-**Tech Stack:** `HTML` `CSS` `JavaScript` `React.js`
-
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/pauldhrupad/Taskflow">Taskflow</a></h3>
+<p>A private full-stack task dashboard with account-based access, secure sessions, task filtering, themes, password recovery, and MongoDB persistence.</p>
+<p align="center"><code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
+<p align="center"><a href="https://github.com/pauldhrupad/Taskflow"><img src="https://img.shields.io/badge/Explore-Repository-0EA5E9?style=for-the-badge&logo=github" alt="Explore Taskflow" /></a></p>
 </td>
-<td width="50%" valign="top">
-
-### 🤖 AI-Powered Resume Screening System
-A web-based application designed to automate the candidate shortlisting process using NLP and Machine Learning techniques.
-
-**Tech Stack:** `Python` `NLP` `React` `MongoDB` `PDF Extraction`
-
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/pauldhrupad/EcoXchange">EcoXchange</a></h3>
+<p>A TypeScript-first marketplace concept connecting businesses and recyclers to exchange reusable and recyclable waste materials.</p>
+<p align="center"><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
+<p align="center"><a href="https://github.com/pauldhrupad/EcoXchange"><img src="https://img.shields.io/badge/Explore-Repository-22C55E?style=for-the-badge&logo=github" alt="Explore EcoXchange" /></a></p>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ♻️ Smart Waste Exchange Platform
-A web-based marketplace designed to connect industries, businesses, and recyclers for trading reusable and recyclable waste materials.
-
-**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.io` `Blockchain Logging`
-
-</td>
-<td width="50%" valign="top">
-
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/pauldhrupad/Farm_Market">Farm Market</a></h3>
+<p>A responsive farm-market frontend prototype developed during Smart India Hackathon to explore practical digital solutions for agriculture.</p>
+<p align="center"><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+<p align="center"><a href="https://github.com/pauldhrupad/Farm_Market"><img src="https://img.shields.io/badge/Explore-Repository-0EA5E9?style=for-the-badge&logo=github" alt="Explore Farm Market" /></a></p>
 </td>
 </tr>
 </table>
 
-> 💡 Once these are pushed to GitHub, turn the headings into links, e.g.:
-> `### 🌾 [Farm-Market](https://github.com/pauldhrupad/farm-market)`
+## Experience & Leadership
 
-<br/>
+**Smart India Hackathon 2024 — Participant**
 
-## 🏆 Experience & Leadership
+- Collaborated with a team to develop the Farm Market prototype
+- Helped turn a problem statement into a working technical solution
 
-**Smart India Hackathon** — *Hackathon Experience*
-- Collaborated with a team to develop the Farm-Market prototype
-- Worked on a scalable technology solution
+**Annual Tech Fest — Event Coordinator**
 
-**Event Coordinator** — *Annual Tech Fest*
 - Managed a team of 30 volunteers
-- Coordinated a 3-day technical festival with 2000+ participants
-- Handled sponsorship outreach and logistics planning
+- Coordinated a three-day technical festival with 2,000+ participants
+- Supported sponsorship outreach, logistics, and event execution
 
-<br/>
+## Current Focus
 
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:dhrupadpaul04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/dhrupad-paul-668b482a9" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/pauldhrupad" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-## 💡 Currently Focused On
-
-<div align="center">
-
-**Full-Stack Development • MERN Stack • Web Applications • Problem Solving**
-<br/>
-Building projects, learning continuously, and turning ideas into working solutions.
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/xUOxfjsW7QRuk7Pqxu/giphy.gif" width="220"/>
-
-<br/><br/>
-
-<i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:339933,100:61DAFB&height=100&section=footer" width="100%"/>
-
-</div>
+```text
+Build useful products  →  Write maintainable code  →  Learn from feedback  →  Ship better
